@@ -16,7 +16,7 @@
 6. **BuildingType**: An array of rooms(RoomArrayType) and a list of ghosts(GhostListType).
 7. **GhostEnumType**: POLTERGEIST, WRAITH, PHANTOM, BULLIES, OTHER.
 ## Run
-```C
+```c
 $ gcc -Wall -std=c99 -o main main.c ghost.c building.c room.c defs.h -g
 $ ./main
 ```
