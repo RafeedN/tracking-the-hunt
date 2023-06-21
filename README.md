@@ -1,6 +1,6 @@
 # Tracking The Hunt
 ## Project Context
- Tracking the Hunt is a project focused on managing a ghost database in C language within the Ubuntu Linux environment. The goal of the project is to develop a program that allows users to track the estimated likelihood of different ghosts being present in various rooms of a building. The program utilizes different data structures, such as arrays and linked lists, to store and manipulate the ghost and room data.
+ Tracking the Hunt is a project focused on managing a ghost database in the **C language** within the **Ubuntu Linux environment**. The goal of the project is to develop a program that allows users to track the estimated likelihood of different ghosts being present in various rooms of a building. The program utilizes different **data structures**, such as **arrays** and **linked lists**, to store and manipulate the ghost and room data.
 	
  The context of the game revolves around a team of ghost “hunters” tracking evidence of ghosts. With the ability to track evidence, the team can make better guesses about the types of ghosts present in the building. The project simulates a proof-of-concept for managing the estimated likelihood of different ghost types in each room.
 ## Project Learning Goals
@@ -15,6 +15,11 @@
 5. **GhostType**: Holds information on a single ghost which includes id, room pointer, GhostEnumType, and likelihood.
 6. **BuildingType**: An array of rooms(RoomArrayType) and a list of ghosts(GhostListType).
 7. **GhostEnumType**: POLTERGEIST, WRAITH, PHANTOM, BULLIES, OTHER.
+## Run
+```C
+$ gcc -Wall -std=c99 -o main main.c ghost.c building.c room.c defs.h -g
+$ ./main
+```
 ## Functionality
  - Print Rooms
  - Print Ghosts
