@@ -25,8 +25,8 @@ $ ./main
  - Print Ghosts
  - Print Ghosts by Likelihood
 
- ![ss1](/imgs/ss1.png)
- ![ss2](/imgs/ss2.png)
+ ![ss1](ss1.png)
+ ![ss2](ss2.png)
  ![ss3](/imgs/ss3.PNG)
  ![ss4](/imgs/ss4.PNG)
  ![ss5](/imgs/ss5.PNG)
