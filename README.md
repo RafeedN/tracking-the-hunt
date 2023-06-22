@@ -21,9 +21,9 @@ $ gcc -Wall -std=c99 -o main main.c ghost.c building.c room.c defs.h -g
 $ ./main
 ```
 ## Functionality
-![ss1](imgs/ss1.png)
+![ss1](/imgs/ss1.png)
  - Print Rooms
- ![ss2](imgs/ss2.png)
+ ![ss2](/imgs/ss2.png)
  ![ss3](/imgs/ss3.PNG)
  - Print Ghosts
  ![ss4](/imgs/ss4.PNG)
