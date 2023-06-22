@@ -21,12 +21,18 @@ $ gcc -Wall -std=c99 -o main main.c ghost.c building.c room.c defs.h -g
 $ ./main
 ```
 ## Functionality
+![ss1](imgs/ss1.png)
  - Print Rooms
+ ![ss2](imgs/ss2.png)
+ ![ss3](/imgs/ss3.PNG)
  - Print Ghosts
+ ![ss4](/imgs/ss4.PNG)
  - Print Ghosts by Likelihood
+ ![ss5](/imgs/ss5.PNG)
 ## Possible Errors That Can Occur
 - **Segmentation faults**: When the program tries to access memory it should not, such as trying to access memory that has been freed or writing to a read-only memory.
 - **Memory Leaks**: When you do not allocate or deallocate memory properly.
 
 I was successful in managing the memory of this project and did not get these errors.
+![ss6](/imgs/ss6.PNG)
 
