@@ -4,7 +4,7 @@
 	
  The context of the game revolves around a team of ghost “hunters” tracking evidence of ghosts. With the ability to track evidence, the team can make better guesses about the types of ghosts present in the building. The project simulates a proof-of-concept for managing the estimated likelihood of different ghost types in each room.
 ## Project Learning Goals Achieved
-* Writing a program in C that **manipulates collections** using **encapsulated functionality**. 
+* Writing a program in **C** that **manipulates collections** using **encapsulated functionality**. 
 * Implementing different kinds of collections, including an **array of pointers** and a **singly linked list** with a tail. 
 * Practicing writing code that manages **multiple pointers** to the same data.
 ## Data Types
