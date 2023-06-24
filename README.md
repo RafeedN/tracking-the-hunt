@@ -26,6 +26,7 @@ $ ./main
  - Print Ghosts by Likelihood
    
  ![ss7](https://github.com/RafeedN/tracking-the-hunt/assets/87875513/408f06c9-3ae2-4c2c-aeff-159448c14bb2)
+ 
  ![ss8](https://github.com/RafeedN/tracking-the-hunt/assets/87875513/30ac4f7e-fe08-4b03-ac95-990038c56792)	
  ![ss3](/imgs/ss3.PNG)
  ![ss4](/imgs/ss4.PNG)
